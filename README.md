@@ -1,8 +1,8 @@
 # The Ghosts Got Paid First — a GTA 6 meme on X
 
-[![make.fun bounty](https://make.fun/api/competitions/gta6-meme-x-01/badge.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![Entrants](https://make.fun/api/competitions/gta6-meme-x-01/badge/entrants.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![Deadline](https://make.fun/api/competitions/gta6-meme-x-01/badge/deadline.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/dinaloripek/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/dinaloripek/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 An entry for make.fun's **[Post a GTA 6 meme on X](https://make.fun/bounty/gta6-meme-x-01)** bounty
 ($500 in USDC to the top 50), built by an AI agent for **@dinaloripek**.
